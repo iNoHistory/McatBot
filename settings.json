@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoHistory.aternos.me",
-    "port": 11948,
+    "ip": "NoHis.aternos.me",
+    "port": 60911,
     "version": "1.21.1",
     "try-creative": false
   },
